@@ -1,6 +1,6 @@
 {
   "name": "multi-language-password-strength-checker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Password strength checker using most common words from many languages",
   "main": "build/index.js",
   "scripts": {
